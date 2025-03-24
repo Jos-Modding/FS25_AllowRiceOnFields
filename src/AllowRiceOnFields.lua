@@ -5,7 +5,6 @@ function AllowRiceOnFields:loadMap(filename)
         if fruitType.seedRequiredFieldType == FieldType.RICE then
             fruitType.seedRequiredFieldType = nil
             g_fruitTypeManager:addFruitTypeToCategory(fruitType.index, g_fruitTypeManager.categories["SOWINGMACHINE"])
-
         end
     end
 end

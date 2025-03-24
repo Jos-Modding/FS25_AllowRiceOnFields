@@ -1,6 +1,6 @@
 # Allow Rice On Fields
 
-Write this?
+Allows planting of rice and long grain rice on regular fields. No paddy or watering required.
 
 ## Requirements
 

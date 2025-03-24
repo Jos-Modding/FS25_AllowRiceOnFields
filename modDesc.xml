@@ -7,22 +7,18 @@
         <de>Reis auf den Feldern zulassen</de>
     </title>
     <description>
-        <en><![CDATA[Allows planting of rice and long grain rice on regular fields.
-
-No paddy or watering required. Rice can no longer be planted in the paddy fields.
+        <en><![CDATA[Allows planting of rice and long grain rice on regular fields. No paddy or watering required.
 
 Latest version and bug reports on <a href="https://github.com/Jos-Modding/FS25_AllowRiceOnFields">GitHub</a>.
 ]]>
         </en>
-        <de><![CDATA[Ermöglicht den Anbau von Reis und Langkornreis auf normalen Feldern.
-
-Kein Reisanbau oder Bewässerung erforderlich. Auf den Reisfeldern kann kein Reis mehr angebaut werden.
+        <de><![CDATA[Ermöglicht den Anbau von Reis und Langkornreis auf normalen Feldern. Kein Reisanbau oder Bewässerung erforderlich.
 
 Aktuelle Version und Fehlerberichte auf <a href="https://github.com/Jos-Modding/FS25_AllowRiceOnFields">GitHub</a>.
 ]]>
         </de>
     </description>
-    <iconFilename>icon_template.dds</iconFilename>
+    <iconFilename>icon_AllowRiceOnFields.dds</iconFilename>
     <multiplayer supported="true"/>
     <extraSourceFiles>
         <sourceFile filename="src/AllowRiceOnFields.lua"/>
